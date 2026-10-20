@@ -55,8 +55,6 @@ Los títulos enlazan con los TXT de esta carpeta. Se distingue la fecha de la ob
 | **Rosa Lucía Sevilla de Alvero** | 1879 | 1954 | Educadora, periodista, dramaturga y defensora del sufragio femenino. Vinculada al Instituto de Mujeres, empleó el teatro como medio de formación y discusión de los papeles sociales de las mujeres. *La mejor ofrenda* y *Prisionera de amor*. |
 | **Juan Zulueta de los Ángeles** | Sin confirmar | Antes de 1896 | Escritor y empleado vinculado al ambiente reformista; colaboró en *La Solidaridad* y participó en la Liga Filipina. *José, el carpintero* ocupa un lugar temprano en el teatro de costumbres filipinas en español. |
 
-Las fechas no confirmadas se mantienen abiertas. Juan Zulueta de los Ángeles no debe confundirse con otros miembros de la familia Zulueta. Las responsabilidades de adaptación y composición musical se distinguen de la autoría del texto original.
-
 ## Las obras
 
 ### José, el carpintero — Juan Zulueta de los Ángeles
