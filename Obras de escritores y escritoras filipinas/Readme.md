@@ -1,4 +1,4 @@
-# Obras por escritores y escritoras filipinas
+# Obras de escritores y escritoras filipinas
 
 Esta sección de [DigiPhiLit · libros_txt](https://github.com/DigiPhiLit/libros_txt) reúne textos en español de autoría filipina. Incluye narrativa, poesía, teatro, biografías, memorias, relatos de viajes y entrevistas, con obras y ediciones de los siglos XIX y XX.
 
