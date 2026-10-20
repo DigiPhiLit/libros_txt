@@ -1,131 +1,154 @@
 # Corpus de narrativa filipina en español
 
-Esta carpeta forma parte del repositorio [libros_txt de DigiPhiLit](https://github.com/DigiPhiLit/libros_txt), que reúne textos de obras escritas por autores y autoras filipinas y de obras sobre Filipinas, organizados por géneros. Ofrece archivos de texto plano para facilitar la consulta, la docencia y la investigación sobre literatura filipina en español, incluido el análisis computacional de textos. La mayor parte de estos textos están en edición de escaneado facsímil en el Portal de Literatura Filipina en Español de la Biblioteca Virtual Miguel de Cervantes https://www.cervantesvirtual.com/portales/literatura_filipina_en_espanol/
+Esta carpeta forma parte del repositorio [libros_txt de DigiPhiLit](https://github.com/DigiPhiLit/libros_txt). Reúne textos en español para la lectura, la docencia y la investigación sobre literatura filipina, incluidos el análisis de corpus y la lectura distante. El [Portal de Literatura Filipina en Español de la Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/portales/literatura_filipina_en_espanol/) permite consultar numerosos facsímiles y ediciones de las obras.
 
-## Alcance y composición
+## Composición del corpus
 
-La carpeta se denomina **«Ficción (novelas y cuentos)»** y contiene **18 archivos de texto** que incluyen 9 novelas, 6 colecciones de cuentos, dos obras de literatura de viajes y un volumen de prosas varias. De los 13 autores y autoras presentes, todos menos uno nacieron en Filipinas. La única excepción es la de Antonio Pérez de Olaguer, escritor nacido en Barcelona de padres filipinos que, en las dos obras que aparecen en esta colección, trata el tema filipino.
+La versión documentada contiene **16 archivos TXT de 11 autores y autoras**. El núcleo literario comprende **14 archivos de 9 autores y autoras**, distribuidos de este modo:
 
-## Inventario
+| Tipo de volumen o archivo | Número | Criterio |
+| --- | ---: | --- |
+| Novelas en archivos independientes | **6** | Tres de Antonio M. Abad, una de Jesús Balmori, una de Mariano de la Rosa y una de José Sedano. El recuento identifica textos representados y no certifica su integridad. |
+| Colecciones de relatos y narraciones breves | **7** | Incluye colecciones de cuentos, novelas cortas y volúmenes mixtos. Una colección puede estar representada parcialmente en el TXT. |
+| Estampas filipinas: *Algo de prosa* | **1** | Se cuenta por separado por su carácter de estampas y prosas costumbristas. |
+| Libros de viajes que todavía figuran en la carpeta | **2** | *Fuera de Filipinas* y *Hacia la tierra del zar*. Quedan fuera del recuento de ficción. |
+| **Total de archivos TXT presentes** | **16** | No incluye este README. |
 
-Los nombres y enlaces reproducen los archivos existentes. Las observaciones se basan en sus encabezamientos y en una inspección inicial del contenido; no constituyen una catalogación bibliográfica definitiva. Las grafías de los nombres de archivo se conservan, aunque difieran de las del texto.
+**Unidad de recuento:** archivo o volumen representado. Las novelas cortas contenidas en recopilaciones no se suman de nuevo a las seis novelas independientes. Así se evita contar un mismo archivo en dos categorías. La cifra de siete colecciones tampoco equivale a siete colecciones completas verificadas: debe comprobarse la integridad de cada testimonio.
 
-| Archivo | Contenido y observaciones |
-| --- | --- |
-| [Abad, Antonio M_El campeón. txt](Abad%2C%20Antonio%20M_El%20campe%C3%B3n.%20txt) | Novela. Contiene notas y materiales editoriales que conviene separar del texto literario. |
-| [Abad, Antonio M_La Aventura de Limahong.txt](Abad%2C%20Antonio%20M_La%20Aventura%20de%20Limahong.txt) | Narración histórica; se presenta como «Mitad novela, mitad historia». |
-| [Abad, Antonio M_La vida secreta de Daniel Espeña.txt](Abad%2C%20Antonio%20M_La%20vida%20secreta%20de%20Daniel%20Espen%CC%83a.txt) | Novela. |
-| [Balmori, Jesús_Bancarrota de almas.txt](Balmori%2C%20Jes%C3%BAs_Bancarrota%20de%20almas.txt) | Novela; la portada transcrita indica 1910. |
-| [Balmori, Jesús_Filipinizad a los filipinos.txt](Balmori%2C%20Jes%C3%BAs_Filipinizad%20a%20los%20filipinos.txt) | Texto teatral, con personajes y diálogos. También existe un archivo con el mismo nombre en la carpeta de teatro. |
-| [Balmori, Jesús_Marino_cuentos.txt](Balmori%2C%20Jesu%CC%81s_Marino_cuentos.txt) | Recopilación de cuentos; comienza con «Almas locas». El nombre del archivo no debe tomarse como título bibliográfico verificado. |
-| [Corpus, Rafael_Fuera de filipinas.txt](Corpus%2C%20Rafael_Fuera%20de%20filipinas.txt) | Literatura de viajes y observación. La extensión del archivo aconseja comprobar su integridad con el original. |
-| [Guerrero, Evangelina_Primicias.txt](Guerrero%2C%20Evangelina_Primicias.txt) | Colección de cuentos. Presenta errores de reconocimiento visibles desde el prólogo. |
-| [Gurrea, Adelina_Cuentos de Juana.txt](Gurrea%2C%20Adelina_Cuentos%20de%20Juana.txt) | Colección de narraciones. Contiene notas editoriales intercaladas. |
-| [Gómez Windham, Guillermo_La Carrera de Cándida.txt](G%C3%B3mez%20Windham%2C%20Guillermo_La%20Carrera%20de%20C%C3%A1ndida.txt) | Volumen que se presenta como «Novelas cortas : cuentos : artículos»; contenido de varios géneros. |
-| [Gómez Windham, Guillermo_La aventura de Cayo Malínao.txt](G%C3%B3mez%20Windham%2C%20Guillermo_La%20aventura%20de%20Cayo%20Mal%C3%ADnao.txt) | Incluye «La aventura de Cayo Malínao», «Los ascensos del inspector Rojo» y «Tía Pasia». |
-| [Kalaw, Teodoro M_Gregorio Hilario del Pilar (el héro de Tirad).txt](Kalaw%2C%20Teodoro%20M_Gregorio%20Hilario%20del%20Pilar%20%28el%20he%CC%81ro%20de%20Tirad%29.txt) | Biografía histórica; su clasificación como ficción requiere revisión. |
-| [Kalaw, Teodoro M_Hacia la tierra del zar.txt](Kalaw%2C%20Teodoro%20M_Hacia%20la%20tierra%20del%20zar.txt) | Literatura de viajes; su clasificación como ficción requiere revisión. |
-| [Laygo, Enrique K_Relatos.txt](Laygo%2C%20Enrique%20K_Relatos.txt) | Recopilación de relatos con referencias de publicación y notas. |
-| [Marina_Lo que ellas dicen.txt](Marina_Lo%20que%20ellas%20dicen.txt) | Recopilación de entrevistas publicadas en La Vanguardia durante 1934–1937, según el encabezamiento. |
-| [Pérez de Olaguer, Antonio_El terror amarillo en Filipinas.txt](Pe%CC%81rez%20de%20Olaguer%2C%20Antonio_El%20terror%20amarillo%20en%20Filipinas.txt) | Texto de carácter testimonial e histórico sobre la guerra en Filipinas; revisar su adscripción genérica. |
-| [Pérez de Olaguer, Antonio_Hospital de San Lázaro.txt](Pe%CC%81rez%20de%20Olaguer%2C%20Antonio_Hospital%20de%20San%20La%CC%81zaro.txt) | Narración en prosa. Revisar los datos bibliográficos de la edición utilizada. |
-| [Recto, Claro M._Solo entre las sombras.txt](Recto%2C%20Claro%20M._Solo%20entre%20las%20sombras.txt) | Drama en un acto y en prosa, según el encabezamiento. También existe un archivo con el mismo nombre en la carpeta de teatro. |
-| [Reyes, Juan_Inquietudes.txt](Reyes%2C%20Juan_Inquietudes.txt) | Contiene poesía desde su inicio; revisar su clasificación. Hay otro archivo de Inquietudes en la carpeta de poemas. |
-| [Rio, Benigno del_ Siete dias en el infierno.txt](Rio%2C%20Benigno%20del_%20Siete%20dias%20en%20el%20infierno.txt) | Diario y testimonio de cautiverio, según el encabezamiento; revisar su clasificación como ficción. |
-| [Rosa, Mariano de la_La Creación.txt](Rosa%2C%20Mariano%20de%20la_La%20Creacio%CC%81n.txt) | Prosa con planteamiento sobre el origen del mundo; revisar su clasificación genérica con la edición fuente. |
-| [Santos, Epifanio de los_Algo de prosa.txt](Santos%2C%20Epifanio%20de%20los_Algo%20de%20prosa.txt) | Recopilación de prosa. |
-| [Sedano, José_La madrastra.txt](Sedano%2C%20Jose%CC%81_La%20madrastra.txt) | Se presenta como novela histórico-contemporánea. Comprobar integridad y edición fuente. |
-| [Sedano, José_Soy de tu raza, Castilla.txt](Sedano%2C%20Jose%CC%81_Soy%20de%20tu%20raza%2C%20Castilla.txt) | El encabezamiento anuncia «15 novelas cortas». Comprobar si el archivo incluye el volumen completo. |
+*La carrera de Cándida* es un volumen mixto de novelas cortas, cuentos y artículos. *Primicias* combina cuentos y prosa lírica. *La aventura de Cayo Malínao* reúne tres narraciones. *Soy de tu raza, Castilla* anuncia una recopilación de quince novelas cortas, pero la extensión y el contenido del archivo requieren comprobar qué parte del volumen está representada.
 
-## Formato y organización
+Los textos teatrales, poéticos, biográficos y de otros autores que se han reubicado ya no forman parte del inventario de esta carpeta. En particular, *El terror amarillo en Filipinas* y *Hospital de San Lázaro*, de **Antonio Pérez de Olaguer**, se han trasladado a **«Obras sobre Filipinas»**, conforme al criterio de distinguir las obras de autores filipinos de las obras sobre el archipiélago de autores no filipinos. Estas dos obras y su autor quedan fuera del inventario, de la tabla de autores y de los recuentos de este corpus. Los dos libros de viajes indicados arriba siguen presentes en el commit consultado y se documentan como tales.
 
-- **Formato:** texto plano. Los 24 archivos examinados se pueden leer con codificación UTF-8.
-- **Lengua principal:** español; pueden aparecer citas, nombres y expresiones en otras lenguas.
-- **Convención general de nombres:** `Apellido, Nombre_Título.txt`.
-- **Unidad documental:** el archivo, que puede reunir varios textos y materiales paratextuales.
+## Inventario de archivos
 
-Los nombres presentan algunas irregularidades de espacios, mayúsculas y composición Unicode de las tildes. En particular, el archivo de *El campeón* termina en `. txt`, con un espacio, por lo que una búsqueda limitada a `*.txt` puede omitirlo. Conviene revisar la lista efectiva de archivos al importar el corpus.
+Los enlaces relativos corresponden a los nombres actuales y están preparados para este README dentro de la carpeta del corpus. Se conservan las grafías de los archivos; en los títulos descriptivos se regularizan espacios y tildes.
 
-Los textos planos no reproducen necesariamente la paginación, la disposición gráfica, las ilustraciones ni las relaciones entre texto y notas de las ediciones de origen.
+| Autoría | Título y archivo | Tipo | Estado y observaciones |
+| --- | --- | --- | --- |
+| Antonio M. Abad | [*El campeón*](Abad%2C%20Antonio%20M_El_campeon.txt) | Novela | Revisión documentada: aparato editorial separado, epígrafe conservado, prologuillo y doce capítulos. |
+| Antonio M. Abad | [*La aventura de Li Ma-Hong*](Abad%2C%20Antonio%20M_La%20Aventura%20de%20Limahong.txt) | Novela histórica | Se presenta como «Mitad novela, mitad historia». Sin revisión integral documentada en las notas adjuntas. |
+| Antonio M. Abad | [*La vida secreta de Daniel Espeña*](Abad%2C%20Antonio%20M_La%20vida%20secreta%20de%20Daniel%20Espen%CC%83a.txt) | Novela | Sin revisión integral documentada en las notas adjuntas. |
+| Jesús Balmori | [*Bancarrota de almas*](Balmori%2C%20Jes%C3%BAs_Bancarrota_de_almas.txt) | Novela | Incidencias de OCR y partición de palabras revisadas; ortografía histórica conservada. |
+| Jesús Balmori | [*Cuentos (archivo «Marino_cuentos»)*](Balmori%2C%20Jesu%CC%81s_Marino_cuentos.txt) | Colección de relatos | Comienza con «Almas locas». Título bibliográfico de la recopilación pendiente de verificación; OCR por revisar. |
+| Rafael Corpus | [*Fuera de Filipinas*](Corpus%2C%20Rafael_Fuera%20de%20filipinas.txt) | Viajes | Fuera del recuento de ficción; comprobar edición e integridad. |
+| Evangelina E. Guerrero | [*Primicias*](Guerrero%2C%20Evangelina_Primicias.txt) | Colección de relatos y prosa lírica | Cotejo con los facsímiles disponibles; pendientes las páginas 165–166. Véase la nota específica. |
+| Adelina Gurrea Monasterio | [*Cuentos de Juana*](Gurrea%2C%20Adelina_Cuentos_de_Juana.txt) | Colección de relatos | Revisión documentada con la edición de 2009; diez secciones, incluido «El Talisay». |
+| Guillermo Gómez Windham | [*La carrera de Cándida*](G%C3%B3mez%20Windham%2C%20Guillermo_La%20Carrera%20de%20C%C3%A1ndida.txt) | Colección mixta | Dos novelas cortas, seis cuentos y tres artículos, según la documentación de revisión. Pendiente de cotejo y de recuperar líneas recortadas. |
+| Guillermo Gómez Windham | [*La aventura de Cayo Malínao*](G%C3%B3mez%20Windham%2C%20Guillermo_La%20aventura%20de%20Cayo%20Mal%C3%ADnao.txt) | Colección de narraciones | Incluye «La aventura de Cayo Malínao», «Los ascensos del inspector Rojo» y «Tía Pasia». |
+| Teodoro M. Kalaw | [*Hacia la tierra del zar*](Kalaw%2C%20Teodoro%20M_Hacia%20la%20tierra%20del%20zar.txt) | Viajes | Fuera del recuento de ficción. |
+| Enrique K. Laygo | [*Relatos*](Laygo%2C%20Enrique%20K_Relatos.txt) | Colección de relatos | Revisión documentada: cuatro secciones y 39 relatos; notas y referencias separadas. Incluye el prólogo de Rafael Palma dentro de la sección III, «Caretas, el libro». |
+| Mariano de la Rosa | [*La creación*](Rosa%2C%20Mariano%20de%20la_La%20Creacio%CC%81n.txt) | Novela | Narrativa especulativa; sin revisión integral documentada en las notas adjuntas. |
+| Epifanio de los Santos Cristóbal | [*Algo de prosa*](Santos%2C%20Epifanio%20de%20los_Algo%20de%20prosa.txt) | Estampas filipinas | Volumen de estampas y prosas costumbristas; categoría propia en el recuento. |
+| José Sedano | [*La madrastra*](Sedano%2C%20Jose%CC%81_La%20madrastra.txt) | Novela | Se presenta como novela histórico-contemporánea. Comprobar integridad: el archivo no debe asumirse equivalente a la novela completa. |
+| José Sedano | [*Soy de tu raza, Castilla*](Sedano%2C%20Jose%CC%81_Soy%20de%20tu%20raza%2C%20Castilla.txt) | Colección de narraciones breves | El encabezamiento anuncia quince novelas cortas; la representación de la colección en este TXT es parcial o, cuando menos, no está verificada. |
 
-## Procedencia y datos bibliográficos
+## Autores y autoras presentes
 
-El README general del repositorio describe la organización de la colección, pero no proporciona una ficha bibliográfica individual para cada archivo. Algunos textos incluyen portadas, fechas o referencias editoriales; esta información debe contrastarse con la edición utilizada. No debe confundirse la fecha de escritura, la de primera publicación y la de la edición transcrita.
+La tabla identifica a quienes tienen textos en esta carpeta. La última columna añade sus otros títulos localizados en las demás carpetas del repositorio; no es una bibliografía completa de su producción. Las fechas verificadas proceden principalmente de las [biografías de la BVMC](https://cervantesvirtual.com/portales/literatura_filipina_en_espanol/perfiles_biograficos/); para Rafael Corpus se ha consultado su [ficha biográfica](https://en.wikipedia.org/wiki/Rafael_Corpus).
 
-Para conocer el contexto bibliográfico de las obras puede consultarse el [portal de Literatura Filipina en Español de la Biblioteca Virtual Miguel de Cervantes](https://www.cervantesvirtual.com/portales/literatura_filipina_en_espanol/). Este enlace es un recurso de consulta y **no implica que todos los archivos procedan de ese portal**.
+| Nombre | Nacimiento | Muerte | Títulos presentes en esta carpeta | Otros títulos presentes en el repositorio |
+| --- | ---: | ---: | --- | --- |
+| Antonio M. Abad | 1894 | 1970 | *El campeón*; *La aventura de Li Ma-Hong*; *La vida secreta de Daniel Espeña*. | — |
+| Jesús Balmori | 1886 | 1948 | *Bancarrota de almas*; cuentos del archivo «Marino_cuentos». | *Rimas malayas*; *Nippon*; *Mi casa de nipa*; *El libro de mis vidas manileñas*; *Balagtasan* (con Manuel Bernabé); *Filipinizad a los filipinos*. |
+| Rafael Corpus y Mislán | 1880 | 1960 | *Fuera de Filipinas* (viajes). | — |
+| Evangelina E. Guerrero, también conocida como Evangelina Guerrero de Zacarías | 1904 | 1949 | *Primicias*. | *Kaleidoscopio espiritual*. |
+| Adelina Gurrea Monasterio | 1896 | 1971 | *Cuentos de Juana*. | *En agraz*; *Brumas y voces*; *Filipinas: auto histórico-satírico*. |
+| Guillermo Gómez Windham | 1880 | 1957 | *La carrera de Cándida*; *La aventura de Cayo Malínao*. | — |
+| Teodoro M. Kalaw | 1884 | 1940 | *Hacia la tierra del zar* (viajes). | *Gregorio Hilario del Pilar (el héroe de Tirad)*. |
+| Enrique K. Laygo | 1897 | 1932 | *Relatos*. | — |
+| Mariano de la Rosa | Por verificar | Por verificar | *La creación*. | — |
+| Epifanio de los Santos Cristóbal | 1871 | 1928 | *Algo de prosa*. | — |
+| José Sedano | Por verificar | Por verificar | *La madrastra*; *Soy de tu raza, Castilla*. | — |
 
-Para mejorar la trazabilidad, se recomienda acompañar futuras revisiones con un archivo de metadatos que recoja, por cada documento:
+No se han completado con conjeturas las fechas de Mariano de la Rosa y José Sedano. Su verificación requiere fuentes biográficas adicionales. El nombre «José Sedano» no debe confundirse con el del escritor español José Asenjo Sedano (1930–2009).
 
-- Identificador y nombre del archivo.
-- Autoría normalizada, título y género o géneros.
-- Fecha de primera publicación y datos completos de la edición transcrita.
-- Institución, URL o identificador del ejemplar fuente.
-- Integridad del texto: completo, selección o fragmento.
-- Procedimiento de obtención y fecha de incorporación.
-- Responsable y nivel de revisión de la transcripción.
-- Tratamiento de prólogos, notas, índices y otros paratextos.
-- Condiciones de uso de la obra y de la edición utilizada.
+## Revisión de los textos
 
-Estos campos constituyen una propuesta de documentación; no se presupone que estén disponibles actualmente.
+La documentación facilitada comprende dos copias coincidentes de **«Revisión del corpus de ficción filipina»**, fechada el 16 de octubre de 2026, y la nota posterior **«Primicias: nota de cotejo»**. Esta última actualiza el estado de *Primicias* descrito en el documento general.
 
-## Estado de los textos y calidad de la transcripción
+Las notas documentan el trabajo sobre seis obras. Describen una entrega de revisión con originales, archivos complementarios y registros de cambios; ello no implica que todos esos materiales estén alojados en esta carpeta de GitHub. El estado de los otros textos no puede deducirse de la revisión de estos seis.
 
-**Los archivos no deben tratarse como transcripciones íntegramente corregidas ni como ediciones críticas.** La inspección inicial muestra una calidad desigual y errores compatibles con procesos de reconocimiento óptico de caracteres (OCR): sustituciones y omisiones de letras, palabras partidas entre líneas, alteraciones de signos y tildes, y encabezamientos o notas mezclados con el cuerpo del texto.
+| Obra | Intervenciones documentadas | Alcance y pendientes |
+| --- | --- | --- |
+| *El campeón* | Separación del cuerpo narrativo y del aparato; conservación del epígrafe; recuperación de títulos y capitulares. | Prologuillo y doce capítulos, según el informe. Edición de referencia: Instituto Cervantes, 2013, versión de la novela de 1940. |
+| *Bancarrota de almas* | Separación de datos de imprenta; unión de palabras partidas; correcciones localizadas de OCR y orden de lectura. | Se conserva la ortografía histórica. El pasaje de las páginas 344–345, advertido como problemático en el ejemplar de la BVMC, se contrastó con el ejemplar de Michigan y se mantuvo una sola vez. |
+| *Primicias* | Corrección de OCR y nombres deformados; restitución de texto legible; eliminación de dos duplicaciones; recuperación del orden de los textos. | La nota posterior registra 60 títulos del índice. «Fantasía de abril» e «Ilusión», páginas 165 y 166, conservan la transcripción anterior pendiente de cotejo. |
+| *Cuentos de Juana* | Separación de notas y pies de ilustración; recuperación de capitulares y títulos. | Diez secciones, incluido «El Talisay», según el informe. Se conservan formas presentes en la edición aunque puedan parecer erratas. |
+| *La carrera de Cándida* | La entrega de revisión documenta separación de portada y unión de palabras partidas, conservando prólogo y piezas del volumen. | Pendientes el cotejo de OCR y las líneas recortadas del escaneo. El TXT actual conserva la portada y la fecha «1931»: no debe darse por incorporada al repositorio toda la preparación descrita en la entrega. |
+| *Relatos* | Nueva extracción del texto de la edición; separación de notas, llamadas y referencias hemerográficas; unión de palabras partidas. | El informe registra cuatro secciones, 39 relatos y el prólogo de Rafael Palma. El TXT publicado empieza con «I. Primeros relatos» y sitúa el prólogo de Rafael Palma dentro de la sección III, «Caretas, el libro». |
 
-También hay archivos con materiales editoriales intercalados y casos cuya integridad debe comprobarse con el original. Esta revisión inicial no mide la tasa de error ni certifica que todos los problemas de cada archivo estén identificados.
+### Primicias: cotejo actualizado
 
-Antes de citar un pasaje, debe cotejarse con la edición fuente. Antes de realizar análisis cuantitativos, conviene revisar una muestra de cada documento y registrar las limitaciones detectadas.
+La revisión se apoyó en `Primicias_1.pdf`, `Primicias_2.pdf` y la transcripción anterior. Según la nota de cotejo, los PDF contienen 180 imágenes: cinco preliminares y 175 del cuerpo del libro, correspondientes a 173 páginas diferentes porque dos se repiten. Se reorganizó la secuencia para seguir el libro y se eliminaron las duplicaciones del texto.
 
-## Uso en docencia e investigación
+Los facsímiles saltan de la página 164 a la 167. **Se conservan los dos textos del intervalo, pero sus lecturas siguen pendientes de contraste:**
 
-Los archivos pueden servir como punto de partida para lectura, búsqueda de concordancias, estudio de personajes y temas, análisis léxico, estilometría y otras aproximaciones de lectura distante, siempre que se tenga en cuenta su estado de transcripción.
+| Página | Texto | Estado |
+| --- | --- | --- |
+| 165 | «Fantasía de abril» | Transcripción anterior conservada; falta imagen para cotejar. |
+| 166 | «Ilusión» | Transcripción anterior conservada; falta imagen para cotejar. |
 
-Para construir un subcorpus comparable se recomienda:
+La revisión conserva los cuentos y la prosa lírica, las voces filipinas y las formas de época. Folios, sellos, marcas ajenas al relato y palabras tachadas quedan fuera del archivo de lectura. La indicación sobre la lectura radiofónica de «Al caer de las hojas» se trasladó a la nota de documentación. El texto termina con la firma de Evangelina E. Guerrero y la fecha de 1935.
 
-1. **Definir la selección:** autoría, período, género y pregunta de investigación. Excluir o distinguir teatro, poesía, entrevistas y testimonios si se estudia exclusivamente ficción narrativa.
-2. **Comprobar la unidad de análisis:** decidir si se compara por volumen, novela o cuento. Separar recopilaciones cuando el método lo requiera, conservando su procedencia.
-3. **Verificar integridad y duplicados:** cotejar con los originales y revisar posibles coincidencias con otras carpetas. Dos archivos con el mismo título no deben asumirse idénticos sin compararlos.
-4. **Preparar una copia de trabajo:** conservar los archivos originales y documentar las correcciones y transformaciones.
-5. **Tratar los paratextos de forma coherente:** distinguir texto literario, prólogos, notas, índices y referencias; su inclusión puede alterar frecuencias y resultados de atribución o comparación estilística.
-6. **Documentar el preprocesamiento:** unión de palabras partidas, normalización Unicode, tokenización, lematización y exclusión de palabras, cuando proceda. No modernizar automáticamente las grafías históricas ni eliminar guiones sin comprobar su función.
-7. **Registrar la versión:** conservar el identificador del commit y la lista de archivos utilizados para hacer reproducible el análisis.
+### Criterios editoriales e integridad
 
-Las diferencias de extensión, género, edición y calidad del OCR pueden influir en los resultados. En las actividades docentes conviene proporcionar un subconjunto previamente revisado cuando la corrección de transcripciones no sea uno de los objetivos de aprendizaje.
+Las intervenciones documentadas distinguen entre **corregir errores de OCR** y **enmendar erratas del testimonio**. Se mantienen la ortografía histórica, los filipinismos y las variantes que pertenecen a la edición. Por ejemplo, la documentación conserva en *Cuentos de Juana* «acostrumbrado», «vendededor» e «infudía», y en *Primicias* varias particularidades del mecanoscrito.
 
-## Cómo descargar los textos
+Los materiales modernos, referencias hemerográficas y pies de ilustración se separan del texto literario en la entrega de revisión. Los prólogos originales y epígrafes se conservan cuando forman parte del alcance declarado, pero su presencia efectiva debe comprobarse en cada TXT publicado.
 
-Para descargar un archivo individual, abrirlo en GitHub y utilizar la opción de descarga del contenido en bruto (**Raw**). Para obtener todo el repositorio, utilizar **Code → Download ZIP**, o clonarlo con Git:
+**El número de líneas no demuestra que un texto esté completo o incompleto.** La unión de renglones, la reconstrucción de párrafos y la separación de notas pueden reducirlo considerablemente. La integridad debe comprobarse mediante el inventario de piezas y secciones, el inicio y final de cada una y el cotejo con la edición fuente. Las afirmaciones de integridad de los informes se atribuyen a esa documentación; este README no sustituye una auditoría independiente de todos los archivos.
+
+## Ediciones de referencia de las seis obras revisadas
+
+Los siguientes datos proceden de la documentación de revisión adjunta. Las fechas de edición se distinguen de las de composición y de digitalización.
+
+| Obra | Edición o testimonio de referencia | Observaciones |
+| --- | --- | --- |
+| *El campeón* | Antonio M. Abad. Edición de Salvador García, notas culturales de María Luisa Young. Manila: Instituto Cervantes, 2013. Clásicos Hispanofilipinos. ISBN 978-971-0426-25-6. | Versión de 1940; composición fechada en 1939–1940. Digitalización BVMC, 2014. El informe sitúa el epígrafe en la página PDF 3 y prologuillo y narración en las páginas PDF 7–270; el apéndice de variantes queda fuera del TXT descrito. |
+| *Bancarrota de almas. Novela filipina* | Jesús Balmori. Manila: Librería Manila Filatélica, 1910. Imprenta y Litografía de Juan Fajardo. | Digitalización BVMC, 2013, del ejemplar de la National Library of the Philippines; contraste con el ejemplar de Michigan en Internet Archive. Conserva al final la fecha de composición de septiembre–octubre de 1908. |
+| *Primicias (cuentos)* | Evangelina E. Guerrero. Testimonio facilitado en dos PDF, identificado mediante la ficha de Filiteratura. | Fecha final: 1935. Lugar de edición e imprenta/editor pendientes de verificación. Cotejo incompleto únicamente en las páginas 165–166, según la nota posterior. |
+| *Cuentos de Juana. Narraciones malayas de las Islas Filipinas* | Adelina Gurrea Monasterio. Edición de Beatriz Álvarez Tardío. Manila: Instituto Cervantes, 2009. Clásicos Hispanofilipinos. | Primera edición: Madrid, Imprenta de Prensa Española, 1943. La edición de 2009 incluye «El Talisay». Digitalización BVMC, 2014; cuerpo narrativo en páginas PDF 52–293. |
+| *La carrera de Cándida. Novelas cortas, cuentos y artículos* | Guillermo Gómez Windham. Iloílo, Islas Filipinas, 1921; editor sin identificar en la documentación. | Digitalización BVMC, 2014, del ejemplar de la University of the Philippines, Diliman. La fecha 1921 corrige el «1931» del TXT inicial, aún visible en el archivo publicado. El informe señala páginas PDF 5–178 y recortes en el margen interior del prólogo. |
+| *Relatos* | Enrique K. Laygo. Edición crítica de Beatriz Álvarez Tardío, con colaboración de María Luna Vico. Manila: Instituto Cervantes, 2015. Clásicos Hispanofilipinos. | Digitalización BVMC, 2016. El informe refiere páginas PDF 75–341, título de sección en 74 y testimonio manuscrito de 343 separado del texto. La fecha de publicación de «Historias verdaderas» se corrige a 2 de octubre de 1919. |
+
+### Enlaces a las fuentes de las revisiones
+
+- *El campeón*: [BVMC](https://www.cervantesvirtual.com/obra/el-campeon/) y [ficha editorial del Instituto Cervantes](https://cervantes.org/es/sobre-nosotros/publicaciones/antonio-m-abad-campeon).
+- *Bancarrota de almas*: [BVMC](https://www.cervantesvirtual.com/obra/bancarrota-de-almas--novela-filipina/) y [ejemplar de Michigan en Internet Archive](https://archive.org/details/aeq7225.0001.001.umich.edu).
+- *Primicias*: [Filiteratura/Heurist](https://heurist.flw.uantwerpen.be/heurist/viewers/record/viewRecord.php?db=rocio_librosfilesp&recID=2636).
+- *Cuentos de Juana*: [edición utilizada](https://www.cervantesvirtual.com/obra/cuentos-de-juana--narraciones-malayas-de-las-islas-filipinas-incluye-el-relato-inedito-el-talisay/) y [bibliografía de la autora](https://www.cervantesvirtual.com/portales/adelina_gurrea_monasterio/su_obra_bibliografia/).
+- *La carrera de Cándida*: [BVMC](https://www.cervantesvirtual.com/obra/la-carrera-de-candida-novelas-cortas-cuentos-y-articulos/).
+- *Relatos*: [BVMC](https://www.cervantesvirtual.com/obra/relatos-0/).
+
+## Formato y uso
+
+Los archivos son textos planos legibles en **UTF-8**. Los nombres siguen, con variaciones de espacios, tildes y guiones bajos, la estructura `Apellido, Nombre_Título.txt`. El archivo de *El campeón* se llama ahora `Abad, Antonio M_El_campeon.txt`; ya no tiene el espacio que figuraba en la extensión anterior.
+
+El TXT facilita búsquedas, concordancias, análisis léxico, estilometría y actividades docentes, pero no reproduce la maquetación, las imágenes ni necesariamente la paginación de la edición. Para citas literales, cotejar el pasaje con su fuente.
+
+Antes de comparar los textos, definir la unidad de análisis —novela, cuento o volumen—, separar de forma coherente los paratextos y registrar el preprocesamiento. Conservar una copia de los originales. No eliminar guiones ni modernizar grafías automáticamente: pueden pertenecer al testimonio. Para actividades que exijan textos depurados, seleccionar los archivos conforme a su estado de revisión y resolver previamente los pasajes pendientes.
+
+## Descarga y citación
+
+Para descargar un TXT, abrirlo en GitHub y utilizar la descarga del contenido en bruto (**Raw**). Para descargar el repositorio completo, utilizar **Code → Download ZIP** o:
 
 ```bash
 git clone https://github.com/DigiPhiLit/libros_txt.git
 ```
 
-Los textos de esta carpeta se encuentran en:
+Referencia orientativa:
 
-```text
-libros_txt/Obras por escritores y escritoras filipinas/Ficción (novelas y cuentos)/
-```
+> DigiPhiLit. (s. f.). *Corpus de narrativa filipina en español* [Archivos de texto de la carpeta «Ficción (novelas y cuentos)», repositorio libros_txt]. GitHub. https://github.com/DigiPhiLit/libros_txt
 
-## Cómo citar
+Añadir la fecha de consulta, el commit, los archivos empleados y las transformaciones realizadas. La cita del repositorio debe acompañarse de la referencia de la edición fuente de cada obra.
 
-Para citar la colección, puede adaptarse esta referencia, indicando la versión realmente utilizada:
+## Condiciones de uso y contribuciones
 
-> DigiPhiLit. (s. f.). *Corpus de narrativa filipina en español* [Colección de archivos de texto, carpeta «Ficción (novelas y cuentos)» del repositorio libros_txt]. GitHub. https://github.com/DigiPhiLit/libros_txt
+En la raíz y el README general de la versión examinada no se ha localizado una declaración de licencia aplicable al conjunto. Este README no asigna una licencia nueva; las condiciones de reutilización deben comprobarse para cada obra, edición y aparato editorial.
 
-Añadir la fecha de consulta y el identificador del commit. El título empleado aquí es descriptivo de esta carpeta. Para reproducir una selección o un análisis, identificar también los archivos concretos y las transformaciones aplicadas.
-
-Para citar una obra o un pasaje, incluir además la referencia bibliográfica de la edición fuente; la referencia al repositorio no la sustituye.
-
-## Condiciones de uso
-
-En la versión examinada no se ha localizado un archivo de licencia en la raíz del repositorio ni una declaración de licencia en su README general. Por tanto, este documento no atribuye una licencia abierta al conjunto. La disponibilidad de los archivos en GitHub no determina por sí sola las condiciones de reutilización de cada obra, edición o aparato editorial. Estas condiciones deben comprobarse en las fuentes correspondientes.
-
-## Correcciones y contribuciones
-
-Las incidencias pueden comunicarse mediante las **Issues** del repositorio. Las propuestas de modificación pueden presentarse mediante una **pull request**.
-
-Para que una corrección sea verificable, indicar el archivo afectado, el pasaje, la lectura propuesta y la edición fuente con su página o localización. Conservar las variantes históricas cuando correspondan al original y distinguir las correcciones de OCR de las intervenciones editoriales. Si se modifica la clasificación de una obra, justificar el cambio.
+Las correcciones pueden comunicarse mediante **Issues** o proponerse mediante **pull requests**, indicando archivo, pasaje, lectura propuesta y fuente con su página. Distinguir errores de OCR de variantes o erratas del original. Resultan especialmente útiles las aportaciones que completen las fechas biográficas pendientes, las páginas 165–166 de *Primicias* y las lecturas recortadas de *La carrera de Cándida*.
 
 ## Versión documentada
 
-Inventario y observaciones elaborados el **19 de octubre de 2026**, a partir del commit [`e99ae0178385fbe2f1096e249a3be0b3a6943907`](https://github.com/DigiPhiLit/libros_txt/tree/e99ae0178385fbe2f1096e249a3be0b3a6943907). El número de archivos y su estado pueden cambiar en versiones posteriores.
+Actualización: **20 de octubre de 2026**. Inventario contrastado con el commit [`9c04d9f1d11494f8f49e323488420b265c54c274`](https://github.com/DigiPhiLit/libros_txt/tree/9c04d9f1d11494f8f49e323488420b265c54c274). Las notas de revisión parten del commit anterior `e99ae0178385fbe2f1096e249a3be0b3a6943907`; se han distinguido sus afirmaciones de lo observado en los TXT actuales. Los recuentos cambiarán si se añaden, retiran o reubican archivos.
