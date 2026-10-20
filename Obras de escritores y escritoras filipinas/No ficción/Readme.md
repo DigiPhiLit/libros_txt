@@ -59,13 +59,13 @@ Narrador, dramaturgo y periodista filipino en español, activo en la vida litera
 
 ## Las obras
 
-### Fuera de Filipinas. Lo observado y lo juzgado
+### *Fuera de Filipinas. Lo observado y lo juzgado*
 
 El texto convierte el viaje a Estados Unidos en una oportunidad para observar la sociedad de la potencia que gobernaba Filipinas. La organización del transporte, los hoteles, el precio de la vida, el consumo y la propaganda electoral conviven con la experiencia del prejuicio racial. El viajero descubre tanto la eficacia de ciertos servicios como la discriminación que condiciona el acceso al alojamiento y las relaciones sociales.
 
 El TXT contiene la sección **«Apenas llegado… Novedades y sorpresas»**, fechada en **San Francisco, California, octubre de 1905**. Es un **fragmento**, de unas 1.300 palabras, y debe utilizarse como tal. La portada transcrita identifica una edición de **L. R. Printing, Manila, 1963**; también aparece una fecha aislada de 1933 antes de esa portada. La fecha de 1905 corresponde a la crónica y no al año de impresión del volumen.
 
-### Gregorio Hilario del Pilar: el héroe de Tirad
+### *Gregorio Hilario del Pilar: el héroe de Tirad*
 
 Biografía del general **Gregorio Hilario del Pilar (1875–1899)**, uno de los protagonistas de la Revolución filipina y de la resistencia frente al ejército estadounidense. Kalaw reconstruye su trayectoria militar, su relación con Emilio Aguinaldo, sus vínculos personales y su muerte en el paso de Tirad, el **2 de diciembre de 1899**.
 
@@ -73,7 +73,7 @@ La obra combina documentos, recuerdos y narración histórica. Desde la introduc
 
 La edición es **Manila, Bureau of Printing, 1930**. La Biblioteca Virtual Miguel de Cervantes ofrece una reproducción digital de un ejemplar conservado en la biblioteca de filipiniana del Instituto Cervantes de Manila.
 
-### Hacia la tierra del zar
+### *Hacia la tierra del zar*
 
 Publicado en **1908**, el libro relata el viaje de Kalaw desde Manila hacia San Petersburgo, realizado en compañía de Manuel L. Quezon. El recorrido enlaza puertos y ciudades de Asia oriental con Vladivostok y el ferrocarril transiberiano. La descripción de paisajes y costumbres se acompaña de reflexiones sobre religión, educación, desigualdad, gobierno y libertad política.
 
@@ -81,13 +81,13 @@ La prosa combina crónica periodística y sensibilidad modernista. Las comparaci
 
 La edición de **Librería Manila Filatélica, Manila, 1908**, incluye líneas prefaciales de **Fernando María Guerrero**. La digitalización de la BVMC, publicada en 2014, reproduce el ejemplar de la **Vargas Museum Library, University of the Philippines, Diliman**. A ese ejemplar le faltan las páginas **6–7, 66–67 y 104–105**. La integridad de esas seis páginas debe comprobarse en el TXT antes de utilizarlo como transcripción completa. Existe una edición moderna de **Jorge Mojarro Romero**, publicada por Renacimiento en 2014, colección *Los Viajeros*, ISBN **978-84-8472-842-9**.
 
-### Lo que ellas dicen
+### *Lo que ellas dicen*
 
 Recopilación de entrevistas publicadas en *La Vanguardia* durante **1934, 1935, 1936 y 1937**, en un momento decisivo para la participación pública de las mujeres filipinas. Entre las interlocutoras figura **Aurora Aragón de Quezon**, la mujer del presidente Manuel L. Quezon. Los diálogos exploran la educación, la vida profesional, el sufragio, la familia, la religión y la posición de las mujeres en la sociedad. Las opiniones recogidas permiten estudiar tanto las aspiraciones de emancipación como los modelos de feminidad y las convenciones sociales de la época. El libro ofrece, además, un corpus para analizar el género de la entrevista y la manera en que la prensa construye una voz pública femenina.
 
 La edición en volumen se publicó en **Manila, Carmelo & Bauermann, 1938**, con **vii + 435 páginas y retratos**. El ejemplar catalogado por la National Library of the Philippines lleva la signatura **Fil 920.7 M338l 1938**. Los años 1934–1937 corresponden a la publicación de las entrevistas, no a la edición del libro.
 
-### Notas de viaje
+### *Notas de viaje*
 
 Crónicas de María Paz Mendoza Guazón sobre su recorrido por América y Europa, con experiencias fechadas en los años veinte. La primera sección presenta su participación en una misión educacional encabezada por **José Abad Santos** y una entrevista en Washington que abre la discusión sobre la imagen de Filipinas en Estados Unidos. El archivo termina con una crónica fechada en **París, 31 de marzo de 1927**, después de una visita a Córcega.
 
@@ -95,21 +95,13 @@ La autora examina instituciones educativas, hábitos sociales y formas de organi
 
 La edición es **Manila, Benipayo Press, 1930**. La portada destaca el **Premio Zóbel de 1930**. Las fechas de las crónicas permiten distinguir el tiempo del viaje del de su publicación en libro.
 
-### Siete días en el infierno (En manos de la Gestapo nipona)
+### *Siete días en el infierno (En manos de la Gestapo nipona)*
 
 Testimonio del arresto y cautiverio de Benigno del Río bajo la ocupación japonesa de Filipinas. El autor describe interrogatorios, torturas, miedo, sospechas de espionaje y relaciones de poder dentro de los espacios de reclusión. La expresión **«Gestapo nipona»** forma parte del lenguaje de denuncia del libro para referirse al aparato represivo japonés.
 
 La memoria personal se amplía hacia la destrucción de Manila, la colaboración política y las responsabilidades de personas relacionadas con la Falange española en Filipinas. El volumen incluye un apéndice y una carta dirigida a **Francisco Franco**, enviada el **24 de diciembre de 1946**, en la que denuncia a José del Castaño. La crítica del autor conecta así la experiencia de la ocupación japonesa con los conflictos políticos de la posguerra.
 
 La edición es **Manila, Nueva Era Press, 1950**. Se trata de un testimonio elaborado y publicado después de los acontecimientos: el rótulo de «diario» convive con recuerdos retrospectivos, documentación y argumentación política.
-
-## Líneas de investigación y docencia
-
-- **Viaje y mirada filipina sobre el mundo:** imágenes de Estados Unidos, Europa y Asia; comparaciones entre sociedades; circulación de modelos educativos y políticos.
-- **Colonialismo y nación:** identidad filipina, racismo, independencia y crítica de los poderes coloniales.
-- **Mujeres y esfera pública:** educación superior, profesión, sufragio, maternidad y representaciones de la modernidad.
-- **Memoria histórica:** Revolución filipina, heroísmo, ocupación japonesa, violencia y colaboracionismo.
-- **Escritura de no ficción:** crónica, entrevista, biografía y testimonio; relaciones entre experiencia personal, documento y narración.
 
 ## Formato y estado de las transcripciones
 
@@ -137,6 +129,8 @@ Para citar pasajes, utilizar la edición impresa o su facsímil y comprobar la p
 - [Rafael Corpus: ficha biográfica](https://en.wikipedia.org/wiki/Rafael_Corpus).
 - Gasquet, Axel. [«La narrativa de Benigno del Río»](https://www.jstor.org/stable/26629924), 2018.
 - Gasquet, Axel. [«Testimonios en español de la ocupación japonesa en Filipinas»](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003279549-33/testimonios-en-espa%C3%B1ol-de-la-ocupaci%C3%B3n-japonesa-en-filipinas-axel-gasquet), 2024.
+- Ortuño Casanova, Rocío, et al., editores. *Introducción a la literatura hispanofilipina*. Routledge, 2024. https://doi.org/10.4324/9781003279549
+- Villaescusa Illán, Irene. [«Un paseo por la modernidad: reflexiones de Paz Mendoza en sus Notas de viaje (1929)»]. *Revista de Crítica Literaria Latinoamericana*, vol. 44, no. 88, 2018, pp. 267–90.  (https://www.jstor.org/stable/26629922)
 
 ## Cómo citar el corpus
 
