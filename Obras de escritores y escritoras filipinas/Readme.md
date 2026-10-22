@@ -10,7 +10,7 @@ La colección contiene **70 archivos de texto**, distribuidos en cuatro carpetas
 | --- | ---: | --- |
 | [Ficción (novelas y cuentos)](Ficci%C3%B3n%20%28novelas%20y%20cuentos%29/) | 14 | Novelas y colecciones de relatos, además de las estampas filipinas de *Algo de prosa*, de Epifanio de los Santos. |
 | [No ficción](No%20ficci%C3%B3n/) | 6 | Biografía, viajes, entrevistas y testimonios. |
-| [Poemas](Poemas/) | 35 | Poemarios. |
+| [Poemas](Poesía/) | 35 | Poemarios. |
 | [Teatro](Teatro/) | 15 | Obras dramáticas. |
 
 Estas cifras cuentan archivos, que pueden contener una obra, varias piezas o una selección de textos.
